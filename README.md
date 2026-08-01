@@ -27,8 +27,6 @@ This project is an interactive Retail Sales Performance Dashboard created in Mic
 - Sales peaked in June and October.
 - Peter achieved the highest sales among salespersons.
 
-## Dashboard Preview
-(Add your screenshot here after uploading it)
 
 ## Author
 **Faith Maundu**  
