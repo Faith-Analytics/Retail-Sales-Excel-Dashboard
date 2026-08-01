@@ -26,6 +26,8 @@ This project is an interactive Retail Sales Performance Dashboard created in Mic
 - Nakuru recorded the highest sales.
 - Sales peaked in June and October.
 - Peter achieved the highest sales among salespersons.
+  
+## Dashboard Preview
 
 
 ## Author
