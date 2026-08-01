@@ -28,7 +28,7 @@ This project is an interactive Retail Sales Performance Dashboard created in Mic
 - Peter achieved the highest sales among salespersons.
   
 ## Dashboard Preview
-
+DASHBOARD SCREENSHORT.PNG
 
 ## Author
 **Faith Maundu**  
